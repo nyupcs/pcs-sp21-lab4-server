@@ -172,7 +172,7 @@ def default_user_info():
         'emma': {
             'username': 'emma',
             'password': '',
-            'name': 'Sarah',
+            'name': 'Emma',
             'avatar': '421a669761c59f3278735113941a55c0',
             'slogan': 'I am Emma!',
             'description': ''
